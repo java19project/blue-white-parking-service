@@ -1,0 +1,5 @@
+# Created at 2024-04-16T04:48:57.564
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Programming\Java-19 Course Materials\FinalProjectBackend\final project\blue-white-parking-service\set-fine-cost-service\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

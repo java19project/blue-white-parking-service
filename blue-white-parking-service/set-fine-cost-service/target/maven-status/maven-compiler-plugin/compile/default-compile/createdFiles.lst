@@ -1,0 +1,7 @@
+com\telran\parking\finecost\consumer\OwnerDataTopicListener.class
+com\telran\parking\finecost\service\SetFineCostServiceImpl.class
+com\telran\parking\finecost\dto\FineDto.class
+com\telran\parking\finecost\producer\FineDataTopicSender.class
+com\telran\parking\finecost\SetFineCostServiceAppl.class
+com\telran\parking\finecost\service\ISetFineCostService.class
+com\telran\parking\finecost\dto\OwnerDto.class
